@@ -1,11 +1,11 @@
 /*
- * Course: CSC1110 - FIXME
+ * Course: CSC1110 - manchadoa
  * Winter 2022-23
  * Lab 3 - Pig Game
- * Name: FIXME
- * Created: FIXME
+ * Name: manchadoa
+ * Created: manchadoa
  */
-package FIXME;
+package manchadoa;
 
 import java.util.Scanner;
 
@@ -37,7 +37,6 @@ public class Pig {
 
     /**
      * Add one player to the game
-     *
      * Prompts for info depending on the player type.
      *
      * @param theGame The game of Pig!
